@@ -1,6 +1,6 @@
 ### Hi! I'm Dain Kim
 
-## <h3 align="left">About Me</h3>
+## Abount Me
 
 - 🔭 Currently Studying Computer Science
 - 🤔 Finding Back-End / ML job
@@ -8,7 +8,7 @@
 - ⚡ Fun fact: My name is  Da-In, Not /deɪn/
 
 
-## Languages
+## What Can I Do
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -18,9 +18,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-
-## Technologies
-
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
