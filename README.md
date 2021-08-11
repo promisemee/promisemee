@@ -1,11 +1,11 @@
 ### Hi! I'm Dain Kim
 
-## Abount Me
+## About Me
 
 - 🔭 Currently Studying Computer Science
 - 🤔 Finding Back-End / ML job
 - 😄 She/They
-- ⚡ Fun fact: My name is  Da-In, Not /deɪn/
+- ⚡ My name is  Da-In, Not /deɪn/
 
 
 ## What Can I Do
