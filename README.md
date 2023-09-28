@@ -1,13 +1,5 @@
 ### Hi! I'm Dain Kim
 
-## About Me
-
-- 🔭 Currently Studying Computer Science
-- 🤔 Finding Back-End / ML job
-- 😄 She/They
-- ⚡ My name is  Da-In, Not /deɪn/
-
-
 ## What Can I Do
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
